@@ -32,3 +32,10 @@ spec/contracts/compiled-plan.md PLN-2.1 PLN-2.2 PLN-2.3 PLN-5.1 PLN-5.2
 spec/contracts/catalog.md CAT-2.1 CAT-2.2 CAT-2.3 CAT-3.1 CAT-3.2 CAT-3.3 CAT-4.2 CAT-4.3 CAT-6.1 CAT-9.1
 spec/extensions/security.md SCY-2.1 SCY-2.2 SCY-3.0 SCY-3.1 SCY-3.1a SCY-4.1 SCY-4.2 SCY-5.1.1 SCY-5.1.2 SCY-5.1.3 SCY-5.1.4 SCY-5.1.5 SCY-5.1.6 SCY-5.1.7 SCY-5.1.8
 spec/architecture/README.md ARC-5.2
+# 0.4.0 gate (rules of the slice VS-1b)
+spec/07-roadmap.md VS-1b VS-3
+spec/stages/E2-bind.md E2-4.5
+spec/stages/E3-paths.md E3-3.1 E3-3.1a E3-3.2 E3-3.3 E3-3.4 E3-3.5 E3-3.6 E3-3.7 E3-4.2 E3-4.2a E3-4.3
+spec/stages/E4-plan.md E4-3.1 E4-3.2 E4-3.3 E4-3.4 E4-3.5 E4-3.6 E4-3.7 E4-3.8 E4-3.9 E4-3.10 E4-3.11 E4-4.0a E4-4.0b E4-4.0c E4-4.0d E4-4.0e E4-4.0f E4-4.0g E4-4.1 E4-5.0a E4-5.0b E4-5.0c E4-5.1 E4-5.2 E4-6.5 E4-6.5a E4-6.5b E4-6.5c E4-6.6 E4-6.10
+spec/stages/E6-generate.md E6-4.6a E6-4.7 E6-4.12 E6-4.13 E6-4.14
+spec/extensions/derived.md DER-2.1 DER-2.2 DER-2.3 DER-2.4 DER-3.1 DER-4.1 DER-4.2 DER-4.3 DER-5.1.1 DER-5.1.2 DER-5.1.3 DER-5.1.4 DER-5.1.5 DER-5.1.6
